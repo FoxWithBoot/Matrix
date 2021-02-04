@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Проект3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MyForm.cpp
+c:\users\михаил\documents\visual studio 2015\projects\проект3\проект3\Matrix.h(146): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\users\михаил\documents\visual studio 2015\projects\проект3\проект3\MyForm.h(659): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\михаил\documents\visual studio 2015\projects\проект3\проект3\MyForm.h(660): warning C4018: <: несоответствие типов со знаком и без знака
+MyForm.cpp(6): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  minus.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  Проект3.vcxproj -> C:\Users\Михаил\Documents\Visual Studio 2015\Projects\Проект3\Debug\Матричный калькулятор.exe
+  Проект3.vcxproj -> C:\Users\Михаил\Documents\Visual Studio 2015\Projects\Проект3\Debug\Матричный калькулятор.pdb (Partial PDB)
